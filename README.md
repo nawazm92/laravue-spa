@@ -41,7 +41,7 @@ npm run production
 
 ## Socialite
 
-This project comes with GitHub as an example for [Laravel Socialite](https://laravel.com/docs/5.8/socialite).
+This project comes with GitHub as an example for [Laravel Socialite](https://laravel.com/docs/6.x/socialite).
 
 To enable the provider create a new GitHub application and use `https://example.com/api/oauth/github/callback` as the Authorization callback URL.
 
